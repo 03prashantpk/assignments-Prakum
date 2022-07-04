@@ -25,6 +25,25 @@ This project is based on nodejs and ejs.
 
 Live Link:  [BIASSIGNMENT-EJS-P2](https://biassignments.herokuapp.com/).
 
+
+### SCREENSHOTS
+
+![](https://github.com/03prashantpk/assignments-Prakum/blob/master/images/Screenshot%202022-07-05%20at%2005-16-38%20API%20ENDPOINT.png)
+
+<br>
+
+
+![](https://github.com/03prashantpk/assignments-Prakum/blob/master/images/Screenshot%202022-07-05%20at%2005-16-49%20https%20__biassignments.herokuapp.com.png)
+
+
+<br>
+
+
+![](https://github.com/03prashantpk/assignments-Prakum/blob/master/images/herokuAssignment.JPG)
+
+<br>
+
+
 ## Authors
 
 - Prashant Kumar 
