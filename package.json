@@ -9,7 +9,8 @@
     },
     "repository": {
         "type": "git",
-        "url": "Blank"
+        "url": "https://biassignments.herokuapp.com/student/studentsList",
+        "url2": "https://github.com/03prashantpk/assignments-Prakum/"
     },
     "keywords": [
         "heroku",
