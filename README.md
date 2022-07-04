@@ -1,6 +1,6 @@
 # BOARD-INFINITY ASSIGNMENTS
 
-> Leave everything on bot and do what you love!
+> "Fix the cause, not the symptom.”
 
 Learning Backed Development.
 This project is based on nodejs and ejs.
